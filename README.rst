@@ -9,6 +9,7 @@ to grab the mouse and placing windows is a pain. `move_window` to the rescue:
 it lets you position your windows very quickly and cleanly via the commandline
 - most useful in conjunction with Launchbar or Quicksilver.
 
+o
 Installation
 ------------
 
